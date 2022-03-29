@@ -1,0 +1,11 @@
+.box{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    background-color: blueviolet;
+    border: 1px solid blueviolet;
+    box-shadow: 2px 1px 15px black;
+    border-radius: 20px;
+}
