@@ -1,11 +1,39 @@
 .box{
-    width: 100px;
-    height: 100px;
+    width: 125px;
+    height: 125px;
+    line-height: 115px;
     margin: 0 auto;
+    margin-bottom: 20px;
     text-align: center;
     font-size: 30px;
-    background-color: blueviolet;
-    border: 1px solid blueviolet;
+    background-color: rgb(36, 83, 235);
+    border: 1px solid rgb(36, 83, 235);
     box-shadow: 2px 1px 15px black;
     border-radius: 20px;
+}
+
+.fizzbuzz{
+    background-color: red;
+    border: 1px solid red;
+}
+
+.fizz{
+    background-color: green;
+    border: 1px solid green;
+}
+
+.buzz{
+    background-color: yellow;
+    border: 1px solid yellow;
+}
+
+body{
+    background-color: rgb(77, 77, 255);
+}
+
+#titolo{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    margin-top: 20px;
 }
